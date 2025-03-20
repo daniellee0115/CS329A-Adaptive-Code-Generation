@@ -111,11 +111,11 @@ The experiments use two main datasets:
 If you use this code or reference our work, please cite:
 
 ```
-@article{lee2024adaptive,
+@article{leevo2025adaptive,
   title={Adaptive Code Generation: Multi-Branch Temperature and Sampling Analysis},
   author={Lee, Daniel and Vo, Nicholas},
   journal={},
-  year={2024}
+  year={2025}
 }
 ```
 
